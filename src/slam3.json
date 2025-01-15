@@ -1,0 +1,310 @@
+[{
+  "slamNum": "3",
+  "game": "SF6",
+  "liquipedia": "https://liquipedia.net/fighters/Sajam_Street_Fighter_Slam/1",
+  "schedule": [
+    {"name":"Groups",  "date":"Sep 4, 24",  "status":"past", "youtubeVod":"Pq9qrEvnpLU"},
+    {"name":"Groups",  "date":"Sep 6, 24",  "status":"past", "youtubeVod":"JsWF2Hn9Msw"},
+    {"name":"Bracket", "date":"Sep 8, 24",  "status":"past", "youtubeVod":"6yJTXM-4YH0"},
+    {"name":"Finals", "date":"Sep 21, 24", "status":"past", "youtubeVod":"SUuwh7XAfU8"}
+  ],
+  "teams": [
+    {
+      "team_id": "Nephew",
+      "placement": 1
+    },
+    {
+      "team_id": "Shine",
+      "placement": 2
+    },
+    {
+      "team_id": "JB",
+      "placement": 3
+    },
+    {
+      "team_id": "Brian_F",
+      "placement": 4
+    },
+    {
+      "team_id": "Diaphone",
+      "placement": 5
+    },
+    {
+      "team_id": "AutoMattock",
+      "placement": 5
+    }
+  ],
+  "people": [
+    {
+      "name": "Sajam",
+      "team_id": "Staff",
+      "slamcount": 3,
+      "characters": []
+    },
+    {
+      "name": "Rynge",
+      "team_id": "Staff",
+      "slamcount": 1,
+      "characters": []
+    },
+    {
+      "name": "Justin Wong",
+      "team_id": "Staff",
+      "slamcount": 2,
+      "characters": []
+    },
+    {
+      "name": "Tasty Steve",
+      "team_id": "Staff",
+      "slamcount": 3,
+      "characters": []
+    },
+    {
+      "name": "IFC YipeS",
+      "team_id": "Staff",
+      "slamcount": 1,
+      "characters": []
+    },
+    {
+      "name": "AutoMattock",
+      "team_id": "AutoMattock",
+      "tier": 5,
+      "slamcount": 1,
+      "characters": ["Jamie"]
+    },
+    {
+      "name": "Brian_F",
+      "team_id": "Brian_F",
+      "tier": 5,
+      "slamcount": 1,
+      "characters": ["Ed"]
+    },
+    {
+      "name": "Diaphone",
+      "team_id": "Diaphone",
+      "tier": 5,
+      "slamcount": 1,
+      "characters": ["AKI"]
+    },
+    {
+      "name": "JB",
+      "team_id": "JB",
+      "tier": 5,
+      "slamcount": 1,
+      "characters": ["Rashid"]
+    },
+    {
+      "name": "Nephew",
+      "team_id": "Nephew",
+      "tier": 5,
+      "slamcount": 1,
+      "characters": ["Juri"]
+    },
+    {
+      "name": "Shine",
+      "team_id": "Shine",
+      "tier": 5,
+      "slamcount": 1,
+      "characters": ["Ed", "Kimberly"]
+    },
+    {
+      "name": "AllShamNoWow",
+      "team_id": "AutoMattock",
+      "tier": 4,
+      "slamcount": 1,
+      "characters": ["Dee Jay"]
+    },
+    {
+      "name": "Koefficient",
+      "team_id": "Brian_F",
+      "tier": 4,
+      "slamcount": 2,
+      "characters": ["AKI"]
+    },
+    {
+      "name": "BoxBox",
+      "team_id": "Diaphone",
+      "tier": 4,
+      "slamcount": 3,
+      "characters": ["Luke"]
+    },
+    {
+      "name": "Cosmonaut Marcus",
+      "team_id": "JB",
+      "tier": 4,
+      "slamcount": 1,
+      "characters": ["Ken"]
+    },
+    {
+      "name": "Huntress",
+      "team_id": "Nephew",
+      "tier": 4,
+      "slamcount": 1,
+      "characters": ["Chun-Li"]
+    },
+    {
+      "name": "Infernasu",
+      "team_id": "Shine",
+      "tier": 4,
+      "slamcount": 1,
+      "characters": ["Akuma"]
+    },
+    {
+      "name": "RoyChiato",
+      "team_id": "AutoMattock",
+      "tier": 3,
+      "slamcount": 2,
+      "characters": ["Jamie"]
+    },
+    {
+      "name": "Brawlpro",
+      "team_id": "Brian_F",
+      "tier": 3,
+      "slamcount": 3,
+      "characters": ["Zangief"]
+    },
+    {
+      "name": "PhiDX",
+      "team_id": "Diaphone",
+      "tier": 3,
+      "slamcount": 3,
+      "characters": ["Cammy"]
+    },
+    {
+      "name": "Esfand",
+      "team_id": "JB",
+      "tier": 3,
+      "slamcount": 1,
+      "characters": ["Ken"]
+    },
+    {
+      "name": "RedRiotRoss",
+      "team_id": "Nephew",
+      "tier": 3,
+      "slamcount": 1,
+      "characters": ["Dee Jay"]
+    },
+    {
+      "name": "Fumi",
+      "team_id": "Shine",
+      "tier": 3,
+      "slamcount": 1,
+      "characters": ["JP", "Ed"]
+    },
+    {
+      "name": "KatLink",
+      "team_id": "AutoMattock",
+      "tier": 2,
+      "slamcount": 2,
+      "characters": ["Ken"]
+    },
+    {
+      "name": "Eskay",
+      "team_id": "Brian_F",
+      "tier": 2,
+      "slamcount": 2,
+      "characters": ["Juri", "Chun-Li"]
+    },
+    {
+      "name": "Amour",
+      "team_id": "Diaphone",
+      "tier": 2,
+      "slamcount": 2,
+      "characters": ["Ken", "E. Honda"]
+    },
+    {
+      "name": "Ultima",
+      "team_id": "JB",
+      "tier": 2,
+      "slamcount": 1,
+      "characters": ["Luke"]
+    },
+    {
+      "name": "Scarra",
+      "team_id": "Nephew",
+      "tier": 2,
+      "slamcount": 3,
+      "characters": ["Manon"]
+    },
+    {
+      "name": "Victoria Brightshield",
+      "team_id": "Shine",
+      "tier": 2,
+      "slamcount": 2,
+      "characters": ["Ed"],
+      "note": "Victoria was unable to attend TwitchCon. She was replaced by KatLink.",
+      "replacement": "katlink"
+    },
+    {
+      "name": "Serotina",
+      "team_id": "AutoMattock",
+      "tier": 1,
+      "slamcount": 1,
+      "characters": ["AKI"]
+    },
+    {
+      "name": "Dokibird",
+      "team_id": "Brian_F",
+      "tier": 1,
+      "slamcount": 2,
+      "characters": ["Zangief"],
+      "note": "Doki was unable to attend TwitchCon. She was replaced by Sykkuno.",
+      "replacement": "sykkuno"
+    },
+    {
+      "name": "Sykkuno",
+      "team_id": "Diaphone",
+      "tier": 1,
+      "slamcount": 2,
+      "characters": ["Cammy"]
+    },
+    {
+      "name": "vGumiho",
+      "team_id": "JB",
+      "tier": 1,
+      "slamcount": 2,
+      "characters": ["Blanka"]
+    },
+    {
+      "name": "LilyPichu",
+      "team_id": "Nephew",
+      "tier": 1,
+      "slamcount": 2,
+      "characters": ["Lily"]
+    },
+    {
+      "name": "Kanna Yanagi",
+      "team_id": "Shine",
+      "tier": 1,
+      "slamcount": 1,
+      "characters": ["M. Bison"],
+      "note": "Kanna was unable to attend TwitchCon. She was replaced by Serotina.",
+      "replacement": "serotina"
+    }
+  ],
+  "characters": [
+    "AKI",
+    "Akuma",
+    "Blanka",
+    "Cammy",
+    "Chun-Li",
+    "Dee Jay",
+    "Dhalsim",
+    "Ed",
+    "E. Honda",
+    "Guile",
+    "Jamie",
+    "JP",
+    "Juri",
+    "Ken",
+    "Kimberly",
+    "Lily",
+    "Luke",
+    "Manon",
+    "Marisa",
+    "M. Bison",
+    "Rashid",
+    "Ryu",
+    "Zangief"
+  ]
+}]

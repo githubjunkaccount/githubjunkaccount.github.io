@@ -1,0 +1,308 @@
+[{
+  "slamNum": "2",
+  "game": "TK8",
+  "liquipedia": "https://liquipedia.net/fighters/Sajam_Tekken_Slam/2",
+  "schedule": [
+    {"name":"Groups",  "date":"May 15, 24",  "status":"past", "youtubeVod":"c7q-iqMNMfs"},
+    {"name":"Groups",  "date":"May 17, 24",  "status":"past", "youtubeVod":"f6EiO5LhOhM"},
+    {"name":"Finals",  "date":"May 19, 24", "status":"past", "youtubeVod":"Wkq8Cl9DbEA"}
+  ],
+  "teams": [
+    {
+      "team_id": "Brawlpro",
+      "placement": 1
+    },
+    {
+      "team_id": "PhiDX",
+      "placement": 2
+    },
+    {
+      "team_id": "Tone",
+      "placement": 3
+    },
+    {
+      "team_id": "KawaiiFaceMiles",
+      "placement": 4
+    },
+    {
+      "team_id": "Kaizur",
+      "placement": 5
+    },
+    {
+      "team_id": "MYK",
+      "placement": 5
+    }
+  ],
+
+  "people": [
+    {
+      "name": "Sajam",
+      "team_id": "Staff",
+      "slamcount": 2,
+      "characters": []
+    },
+    {
+      "name": "Tasty Steve",
+      "team_id": "Staff",
+      "slamcount": 2,
+      "characters": []
+    },
+    {
+      "name": "Brawlpro",
+      "team_id": "Brawlpro",
+      "tier": 5,
+      "slamcount": 2,
+      "characters": ["King"]
+    },
+    {
+      "name": "Kaizur",
+      "team_id": "Kaizur",
+      "tier": 5,
+      "slamcount": 1,
+      "characters": ["Azucena", "Dragunov"]
+    },
+    {
+      "name": "KawaiiFaceMiles",
+      "team_id": "KawaiiFaceMiles",
+      "tier": 5,
+      "slamcount": 2,
+      "characters": ["Alisa"]
+    },
+    {
+      "name": "MYK",
+      "team_id": "MYK",
+      "tier": 5,
+      "slamcount": 2,
+      "characters": ["Kuma"]
+    },
+    {
+      "name": "PhiDX",
+      "team_id": "PhiDX",
+      "tier": 5,
+      "slamcount": 2,
+      "characters": ["Lili", "Steve"]
+    },
+    {
+      "name": "Tone",
+      "team_id": "Tone",
+      "tier": 5,
+      "slamcount": 1,
+      "characters": ["Bryan", "Dragunov"]
+    },
+
+    {
+      "name": "BoxBox",
+      "team_id": "Tone",
+      "tier": 4,
+      "slamcount": 2,
+      "characters": ["Asuka"]
+    },
+    {
+      "name": "Scarra",
+      "team_id": "MYK",
+      "tier": 4,
+      "slamcount": 2,
+      "characters": ["Victor"]
+    },
+    {
+      "name": "LazyMattman",
+      "team_id": "Brawlpro",
+      "tier": 4,
+      "slamcount": 2,
+      "characters": ["Jack-8"]
+    },
+    {
+      "name": "FD Signifier",
+      "team_id": "PhiDX",
+      "tier": 4,
+      "slamcount": 1,
+      "characters": ["Eddy"]
+    },
+    {
+      "name": "Amaz",
+      "team_id": "KawaiiFaceMiles",
+      "tier": 4,
+      "slamcount": 1,
+      "characters": ["Alisa"]
+    },
+    {
+      "name": "Shiphtur",
+      "team_id": "Kaizur",
+      "tier": 4,
+      "slamcount": 2,
+      "characters": ["Jun"]
+    },
+
+
+
+    {
+      "name": "Koefficient",
+      "team_id": "MYK",
+      "tier": 3,
+      "slamcount": 1,
+      "characters": ["Azucena"]
+    },
+    {
+      "name": "Fairlight",
+      "team_id": "PhiDX",
+      "tier": 3,
+      "slamcount": 1,
+      "characters": ["Feng"]
+    },
+    {
+      "name": "Slime",
+      "team_id": "Brawlpro",
+      "tier": 3,
+      "slamcount": 2,
+      "characters": ["Kuma"]
+    },
+    {
+      "name": "RoyChiato",
+      "team_id": "KawaiiFaceMiles",
+      "tier": 3,
+      "slamcount": 1,
+      "characters": ["Jin"]
+    },
+    {
+      "name": "Seanic",
+      "team_id": "Kaizur",
+      "tier": 3,
+      "slamcount": 2,
+      "characters": ["Lars"]
+    },
+    {
+      "name": "Joshman",
+      "team_id": "Tone",
+      "tier": 3,
+      "slamcount": 1,
+      "characters": ["Bryan"]
+    },
+
+
+    {
+      "name": "Coney",
+      "team_id": "Brawlpro",
+      "tier": 2,
+      "slamcount": 2,
+      "characters": ["King"]
+    },
+    {
+      "name": "CirnoTV",
+      "team_id": "Kaizur",
+      "tier": 2,
+      "slamcount": 1,
+      "characters": ["Reina"]
+    },
+    {
+      "name": "Zentreya",
+      "team_id": "KawaiiFaceMiles",
+      "tier": 2,
+      "slamcount": 1,
+      "characters": ["Jun"]
+    },
+    {
+      "name": "James Chen",
+      "team_id": "MYK",
+      "tier": 2,
+      "slamcount": 1,
+      "characters": ["King"]
+    },
+    {
+      "name": "KatLink",
+      "team_id": "PhiDX",
+      "tier": 2,
+      "slamcount": 1,
+      "characters": ["Azucena"]
+    },
+    {
+      "name": "Rayditz",
+      "team_id": "Tone",
+      "tier": 2,
+      "slamcount": 2,
+      "characters": ["Dragunov"]
+    },
+
+
+
+
+
+    {
+      "name": "Dokibird",
+      "team_id": "Brawlpro",
+      "tier": 1,
+      "slamcount": 1,
+      "characters": ["King"]
+    },
+    {
+      "name": "Amour",
+      "team_id": "Kaizur",
+      "tier": 1,
+      "slamcount": 1,
+      "characters": ["King"]
+    },
+    {
+      "name": "LoganRDJ",
+      "team_id": "KawaiiFaceMiles",
+      "tier": 1,
+      "slamcount": 1,
+      "characters": ["Hwoarang"]
+    },
+    {
+      "name": "vGumiho",
+      "team_id": "MYK",
+      "tier": 1,
+      "slamcount": 1,
+      "characters": ["Yoshimitsu"]
+    },
+    {
+      "name": "Eskay",
+      "team_id": "PhiDX",
+      "tier": 1,
+      "slamcount": 1,
+      "characters": ["Reina"]
+    },
+    {
+      "name": "ESAM",
+      "team_id": "Tone",
+      "tier": 1,
+      "slamcount": 1,
+      "characters": ["Law"]
+    }
+  ],
+
+  "characters": [
+    "Alisa",
+    "Asuka",
+    "Azucena",
+    "Bryan",
+    "Claudio",
+    "Devil Jin",
+    "Dragunov",
+    "Eddy",
+    "Feng",
+    "Hwoarang",
+    "Jack-8",
+    "Jin",
+    "Jun",
+    "Kazuya",
+    "King",
+    "Kuma",
+    "Lars",
+    "Law",
+    "Lee",
+    "Leo",
+    "Leroy",
+    "Lili",
+    "Nina",
+    "Panda",
+    "Paul",
+    "Raven",
+    "Shaheen",
+    "Steve",
+    "Victor",
+    "Reina",
+    "Xiaoyu",
+    "Yoshimitsu",
+    "Zafina"
+  ]
+}]

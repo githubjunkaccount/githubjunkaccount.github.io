@@ -1,0 +1,965 @@
+{
+ "sajam": {
+  "twitch": [
+   "sajam"
+  ],
+  "youtube": [
+   "supermansajam"
+  ],
+  "twitter": "sajam",
+  "liveon": "https://twitch.tv/sajam",
+  "livecategory": "Street Fighter 6",
+  "livetitle": "Sajam: EVO Announcement Show! EVO Voting, Sajam Slam Teams Tomorrow!"
+ },
+ "rynge": {
+  "twitch": [
+   "rynge"
+  ],
+  "youtube": [
+   "ryngemaestro"
+  ],
+  "twitter": "rynge_",
+  "liveon": "",
+  "livecategory": "",
+  "livetitle": ""
+ },
+ "justinwong": {
+  "twitch": [
+   "jwonggg"
+  ],
+  "youtube": [
+   "jwonggg"
+  ],
+  "twitter": "jwonggg",
+  "liveon": "https://twitch.tv/jwonggg",
+  "livecategory": "Marvel vs. Capcom 2: New Age of Heroes",
+  "livetitle": "WHAT FIGHTING GAME TO PLAY !FARMSKINS"
+ },
+ "punk": {
+  "twitch": [
+   "punkdagod"
+  ],
+  "youtube": [
+   "punkdagod"
+  ],
+  "twitter": "punkdagod",
+  "liveon": "",
+  "livecategory": "",
+  "livetitle": ""
+ },
+ "tastysteve": {
+  "twitch": [
+   "tasty_steve"
+  ],
+  "youtube": [
+   "tastysteve"
+  ],
+  "twitter": "tasty_steve",
+  "liveon": "",
+  "livecategory": "",
+  "livetitle": ""
+ },
+ "ifcyipes": {
+  "twitch": [
+   "ifcyipes"
+  ],
+  "youtube": [
+   "ifcyipes"
+  ],
+  "twitter": "ifcyipes",
+  "liveon": "",
+  "livecategory": "",
+  "livetitle": ""
+ },
+ "automattock": {
+  "twitch": [
+   "automattock"
+  ],
+  "youtube": [
+   "jibbo"
+  ],
+  "twitter": "automattock",
+  "liveon": "",
+  "livecategory": "",
+  "livetitle": ""
+ },
+ "brianf": {
+  "twitch": [
+   "brian_f"
+  ],
+  "youtube": [
+   "brian_f"
+  ],
+  "twitter": "bri4nf",
+  "liveon": "",
+  "livecategory": "",
+  "livetitle": ""
+ },
+ "diaphone": {
+  "twitch": [
+   "diaphone_"
+  ],
+  "youtube": [
+   "diaphone"
+  ],
+  "twitter": "diaphone_",
+  "liveon": "",
+  "livecategory": "",
+  "livetitle": ""
+ },
+ "jb": {
+  "twitch": [
+   "tryhard_jb"
+  ],
+  "youtube": [
+   "tryhardjb1919"
+  ],
+  "twitter": "tryhardjb",
+  "liveon": "",
+  "livecategory": "",
+  "livetitle": ""
+ },
+ "nephew": {
+  "twitch": [
+   "nephewdork"
+  ],
+  "youtube": [
+   "nephewdork"
+  ],
+  "twitter": "nephewdork",
+  "liveon": "",
+  "livecategory": "",
+  "livetitle": ""
+ },
+ "shine": {
+  "twitch": [
+   "shinenyc"
+  ],
+  "youtube": [],
+  "twitter": "shine_nyc",
+  "liveon": "",
+  "livecategory": "",
+  "livetitle": ""
+ },
+ "allshamnowow": {
+  "twitch": [
+   "allshamnowow"
+  ],
+  "youtube": [
+   "allshamnowow"
+  ],
+  "twitter": "allshamnowow",
+  "liveon": "",
+  "livecategory": "",
+  "livetitle": ""
+ },
+ "koefficient": {
+  "twitch": [
+   "koefficient"
+  ],
+  "youtube": [
+   "koefficient"
+  ],
+  "twitter": "thekoefficient",
+  "liveon": "https://twitch.tv/koefficient",
+  "livecategory": "Marvel Rivals",
+  "livetitle": "MARVEL RIVALS WITH THE BOYS!!"
+ },
+ "boxbox": {
+  "twitch": [
+   "boxbox"
+  ],
+  "youtube": [
+   "boxbox"
+  ],
+  "twitter": "boxbox",
+  "liveon": "",
+  "livecategory": "",
+  "livetitle": ""
+ },
+ "cosmonautmarcus": {
+  "twitch": [
+   "cosmonaut_variety_hour"
+  ],
+  "youtube": [
+   "cosmonautvarietyhour"
+  ],
+  "twitter": "cosmovarietyhr",
+  "liveon": "",
+  "livecategory": "",
+  "livetitle": ""
+ },
+ "huntress": {
+  "twitch": [
+   "huntress"
+  ],
+  "youtube": [
+   "huntress_vt"
+  ],
+  "twitter": "huntress_vt",
+  "liveon": "",
+  "livecategory": "",
+  "livetitle": ""
+ },
+ "infernasu": {
+  "twitch": [
+   "infernasu"
+  ],
+  "youtube": [
+   "infernasu"
+  ],
+  "twitter": "infernasu",
+  "liveon": "",
+  "livecategory": "",
+  "livetitle": ""
+ },
+ "roychiato": {
+  "twitch": [
+   "roychiato"
+  ],
+  "youtube": [
+   "roychiato"
+  ],
+  "twitter": "roychiato",
+  "liveon": "",
+  "livecategory": "",
+  "livetitle": ""
+ },
+ "brawlpro": {
+  "twitch": [
+   "brawlpro"
+  ],
+  "youtube": [
+   "brawlpro"
+  ],
+  "twitter": "brawlpro",
+  "liveon": "",
+  "livecategory": "",
+  "livetitle": ""
+ },
+ "phidx": {
+  "twitch": [
+   "phidx"
+  ],
+  "youtube": [
+   "phidxgames"
+  ],
+  "twitter": "phidxgames",
+  "liveon": "",
+  "livecategory": "",
+  "livetitle": ""
+ },
+ "esfand": {
+  "twitch": [
+   "esfandtv",
+   "esfandradio"
+  ],
+  "youtube": [
+   "esfandtv"
+  ],
+  "twitter": "esfandtv",
+  "liveon": "https://twitch.tv/esfandtv",
+  "livecategory": "EA Sports College Football 25",
+  "livetitle": "Twitch Rivals College Football Tournament... Then Stream Doesn't End until level 60 Marathon - @esfandtv all socials"
+ },
+ "redriotross": {
+  "twitch": [
+   "redriotross"
+  ],
+  "youtube": [
+   "redriotross"
+  ],
+  "twitter": "redriotross",
+  "liveon": "",
+  "livecategory": "",
+  "livetitle": ""
+ },
+ "fumi": {
+  "twitch": [
+   "fumi"
+  ],
+  "youtube": [
+   "fumikohoshi"
+  ],
+  "twitter": "fumikohoshi",
+  "liveon": "",
+  "livecategory": "",
+  "livetitle": ""
+ },
+ "katlink": {
+  "twitch": [
+   "katlink"
+  ],
+  "youtube": [
+   "katlink"
+  ],
+  "twitter": "katlink",
+  "liveon": "",
+  "livecategory": "",
+  "livetitle": ""
+ },
+ "eskay": {
+  "twitch": [
+   "eskay"
+  ],
+  "youtube": [
+   "eskay_ow"
+  ],
+  "twitter": "eskayow",
+  "liveon": "https://twitch.tv/eskay",
+  "livecategory": "Marvel Rivals",
+  "livetitle": "[DROPS] Solo Q to t500?"
+ },
+ "amour": {
+  "twitch": [
+   "amour"
+  ],
+  "youtube": [
+   "cielle_amour"
+  ],
+  "twitter": "cielle_amour",
+  "liveon": "",
+  "livecategory": "",
+  "livetitle": ""
+ },
+ "ultima": {
+  "twitch": [
+   "ultimashadow"
+  ],
+  "youtube": [
+   "ultimashadowx"
+  ],
+  "twitter": "ultimashadowx",
+  "liveon": "https://twitch.tv/ultimashadow",
+  "livecategory": "FINAL FANTASY XVI",
+  "livetitle": "Devil May Clive - FF16"
+ },
+ "scarra": {
+  "twitch": [
+   "scarra"
+  ],
+  "youtube": [
+   "scarraofficial"
+  ],
+  "twitter": "scarra",
+  "liveon": "https://twitch.tv/scarra",
+  "livecategory": "Teamfight Tactics",
+  "livetitle": "my weekly pill box means im youthful and spry please do not compare me to your grandparents"
+ },
+ "victoriabrightshield": {
+  "twitch": [],
+  "youtube-stream": [
+   "victoriabrightshield"
+  ],
+  "twitter": "vbrightshield",
+  "liveon": "",
+  "livecategory": "",
+  "livetitle": ""
+ },
+ "serotina": {
+  "twitch": [
+   "serotina"
+  ],
+  "youtube": [
+   "serotina"
+  ],
+  "twitter": "serotinavt",
+  "liveon": "",
+  "livecategory": "",
+  "livetitle": ""
+ },
+ "dokibird": {
+  "twitch": [
+   "dokibird"
+  ],
+  "youtube-stream": [
+   "dokibird"
+  ],
+  "twitter": "dokibird",
+  "liveon": "",
+  "livecategory": "",
+  "livetitle": ""
+ },
+ "sykkuno": {
+  "twitch": [
+   "sykkuno"
+  ],
+  "youtube": [
+   "sykkuno"
+  ],
+  "twitter": "sykkuno",
+  "liveon": "https://twitch.tv/sykkuno",
+  "livecategory": "Liar's Bar",
+  "livetitle": "PARTNER ANNIVERSARY STREAM WOO"
+ },
+ "vgumiho": {
+  "twitch": [
+   "vgumiho"
+  ],
+  "youtube": [
+   "vgumiho"
+  ],
+  "twitter": "vgumiho",
+  "liveon": "",
+  "livecategory": "",
+  "livetitle": ""
+ },
+ "lilypichu": {
+  "twitch": [
+   "lilypichu"
+  ],
+  "youtube": [
+   "lilypichu"
+  ],
+  "twitter": "lilypichu",
+  "liveon": "https://twitch.tv/lilypichu",
+  "livecategory": "League of Legends",
+  "livetitle": "i need to get out of bronze"
+ },
+ "kannayanagi": {
+  "twitch": [],
+  "youtube-stream": [
+   "kannayanagi"
+  ],
+  "twitter": "kannapixellink",
+  "liveon": "",
+  "livecategory": "",
+  "livetitle": ""
+ },
+ "myk": {
+  "twitch": [
+   "thenameismyk"
+  ],
+  "youtube": [
+   "thenameismyk"
+  ],
+  "twitter": "thenameismyk",
+  "liveon": "",
+  "livecategory": "",
+  "livetitle": ""
+ },
+ "joeyfury": {
+  "twitch": [
+   "joey_fury"
+  ],
+  "youtube": [
+   "joey_fury"
+  ],
+  "twitter": "joey_fury",
+  "liveon": "",
+  "livecategory": "",
+  "livetitle": ""
+ },
+ "kawaiifacemiles": {
+  "twitch": [
+   "kawaiifacemiles"
+  ],
+  "youtube": [
+   "kawaiifacemiles"
+  ],
+  "twitter": "kawaiifacemiles",
+  "liveon": "",
+  "livecategory": "",
+  "livetitle": ""
+ },
+ "lazymattman": {
+  "twitch": [
+   "lazymattman"
+  ],
+  "youtube": [
+   "lazymattman"
+  ],
+  "twitter": "lazymattman",
+  "liveon": "",
+  "livecategory": "",
+  "livetitle": ""
+ },
+ "rosemilovelock": {
+  "twitch": [
+   "rosemilovelock"
+  ],
+  "youtube-stream": [
+   "rosemi_lovelock"
+  ],
+  "twitter": "rosemi_lovelock",
+  "liveon": "",
+  "livecategory": "",
+  "livetitle": ""
+ },
+ "imaqtpie": {
+  "twitch": [
+   "imaqtpie"
+  ],
+  "youtube": [
+   "imaqtpie"
+  ],
+  "twitter": "imaqtpielol",
+  "liveon": "https://twitch.tv/imaqtpie",
+  "livecategory": "League of Legends",
+  "livetitle": "dominating my lane opponent on the warpath to gm none shall stand before me (still playing sivir ziggs afk)"
+ },
+ "rayditz": {
+  "twitch": [
+   "rayditz"
+  ],
+  "youtube": [
+   "rayditz"
+  ],
+  "twitter": "rayditzfn",
+  "liveon": "",
+  "livecategory": "",
+  "livetitle": ""
+ },
+ "afrosenju": {
+  "twitch": [
+   "afrosenjutv"
+  ],
+  "youtube": [
+   "afrosenju"
+  ],
+  "twitter": "afrosenju",
+  "liveon": "",
+  "livecategory": "",
+  "livetitle": ""
+ },
+ "disguisedtoast": {
+  "twitch": [
+   "disguisedtoast"
+  ],
+  "youtube": [
+   "disguisedtoast"
+  ],
+  "twitter": "disguisedtoast",
+  "liveon": "",
+  "livecategory": "",
+  "livetitle": ""
+ },
+ "supertf": {
+  "twitch": [
+   "supertf"
+  ],
+  "youtube": [
+   "supertf"
+  ],
+  "twitter": "supertf",
+  "liveon": "https://twitch.tv/supertf",
+  "livecategory": "Marvel Rivals",
+  "livetitle": "[DROPS] hiiiiiiiiiiiiiiii everybody big powerful man is here ^_^ - Marvel Rivals Season 1 !marvelrivals #ad"
+ },
+ "kitehasegawa": {
+  "twitch": [
+   "kitehasegawa"
+  ],
+  "youtube": [
+   "kitehasegawa"
+  ],
+  "twitter": "kitehasegawa",
+  "liveon": "",
+  "livecategory": "",
+  "livetitle": ""
+ },
+ "shiphtur": {
+  "twitch": [
+   "shiphtur"
+  ],
+  "youtube": [
+   "shiphturlol"
+  ],
+  "twitter": "shiphtur",
+  "liveon": "https://twitch.tv/shiphtur",
+  "livecategory": "Just Chatting",
+  "livetitle": "outdoor BOYZ !factor"
+ },
+ "seanic": {
+  "twitch": [
+   "seanic"
+  ],
+  "youtube": [
+   "seanic"
+  ],
+  "twitter": "hyperseanic",
+  "liveon": "",
+  "livecategory": "",
+  "livetitle": ""
+ },
+ "starsmitten": {
+  "twitch": [
+   "starsmitten"
+  ],
+  "youtube": [
+   "starsmitten"
+  ],
+  "twitter": "starsmitten_",
+  "liveon": "https://twitch.tv/starsmitten",
+  "livecategory": "Minecraft",
+  "livetitle": "cobble wobble bobble"
+ },
+ "coney": {
+  "twitch": [
+   "coney"
+  ],
+  "youtube": [
+   "coneyzz"
+  ],
+  "twitter": "coney",
+  "liveon": "",
+  "livecategory": "",
+  "livetitle": ""
+ },
+ "erobb": {
+  "twitch": [
+   "erobb221"
+  ],
+  "youtube": [
+   "erobb2213"
+  ],
+  "twitter": "erobb211",
+  "liveon": "https://twitch.tv/erobb221",
+  "livecategory": "EA Sports College Football 25",
+  "livetitle": "CHALLENGE OVER!!!! TWITCH RIVALS"
+ },
+ "emilywang": {
+  "twitch": [
+   "emilyywang"
+  ],
+  "youtube": [
+   "emilyywang"
+  ],
+  "twitter": "emilyywng",
+  "liveon": "",
+  "livecategory": "",
+  "livetitle": ""
+ },
+ "sydeon": {
+  "twitch": [
+   "sydeon"
+  ],
+  "youtube": [
+   "sydeons"
+  ],
+  "twitter": "sydeon",
+  "liveon": "https://twitch.tv/sydeon",
+  "livecategory": "Marvel Rivals",
+  "livetitle": "[drops] PLEASE MOON STOP HAUNTING ME"
+ },
+ "connoreatspants": {
+  "twitch": [
+   "connoreatspants"
+  ],
+  "youtube": [
+   "connoreatspants"
+  ],
+  "youtube-stream": [
+   "ConnorEatsPantsLIVE"
+  ],
+  "twitter": "connoreatspants",
+  "liveon": "",
+  "livecategory": "",
+  "livetitle": ""
+ },
+ "slime": {
+  "twitch": [
+   "slimeirl"
+  ],
+  "youtube": [
+   "slimewire"
+  ],
+  "twitter": "slime_machine",
+  "liveon": "",
+  "livecategory": "",
+  "livetitle": ""
+ },
+ "robcdee": {
+  "twitch": [
+   "robcdee"
+  ],
+  "youtube": [
+   "robcdee"
+  ],
+  "twitter": "robcdee_",
+  "liveon": "",
+  "livecategory": "",
+  "livetitle": ""
+ },
+ "porcelainmaid": {
+  "twitch": [
+   "porcelainmaid"
+  ],
+  "youtube": [
+   "porcelainmaid"
+  ],
+  "twitter": "porcelainmaid",
+  "liveon": "https://twitch.tv/porcelainmaid",
+  "livecategory": "Just Chatting",
+  "livetitle": "PORCELAIN POTLUCK💢 | !fangame !merch !uwumerch !gs !vroyale"
+ },
+ "fdsignifier": {
+  "twitch": [],
+  "youtube-stream": [
+   "fdsignifire",
+   "signifiedbsides1129"
+  ],
+  "twitter": "fdsignifier",
+  "liveon": "",
+  "livecategory": "",
+  "livetitle": ""
+ },
+ "tone": {
+  "twitch": [
+   "hidetone"
+  ],
+  "youtube": [
+   "hidetone"
+  ],
+  "twitter": "hidetone",
+  "liveon": "",
+  "livecategory": "",
+  "livetitle": ""
+ },
+ "kaizur": {
+  "twitch": [
+   "kaizurtv"
+  ],
+  "youtube": [
+   "kaizur"
+  ],
+  "twitter": "kaizured",
+  "liveon": "",
+  "livecategory": "",
+  "livetitle": ""
+ },
+ "amaz": {
+  "twitch": [
+   "amaz"
+  ],
+  "youtube": [
+   "amazhs"
+  ],
+  "twitter": "amaz",
+  "liveon": "",
+  "livecategory": "",
+  "livetitle": ""
+ },
+ "fairlight": {
+  "twitch": [
+   "fairlight_excalibur"
+  ],
+  "youtube": [
+   "fairlightex"
+  ],
+  "twitter": "fairlightex",
+  "liveon": "",
+  "livecategory": "",
+  "livetitle": ""
+ },
+ "joshman": {
+  "twitch": [
+   "joshmanau"
+  ],
+  "youtube": [
+   "joshmanau"
+  ],
+  "twitter": "liltrickshot",
+  "liveon": "",
+  "livecategory": "",
+  "livetitle": ""
+ },
+ "jameschen": {
+  "twitch": [
+   "jchensor"
+  ],
+  "youtube": [
+   "ultrachentv"
+  ],
+  "twitter": "jchensor",
+  "liveon": "",
+  "livecategory": "",
+  "livetitle": ""
+ },
+ "cirnotv": {
+  "twitch": [
+   "cirno_tv"
+  ],
+  "youtube": [
+   "icefairytv"
+  ],
+  "twitter": "cirnotv",
+  "liveon": "https://twitch.tv/cirno_tv",
+  "livecategory": "Voices of the Void",
+  "livetitle": "VOICES OF THE VOID INSIDE ME - !gs"
+ },
+ "zentreya": {
+  "twitch": [
+   "zentreya"
+  ],
+  "youtube": [
+   "zentreya"
+  ],
+  "twitter": "zentreya",
+  "liveon": "",
+  "livecategory": "",
+  "livetitle": ""
+ },
+ "esam": {
+  "twitch": [
+   "imesam"
+  ],
+  "youtube": [
+   "imesam"
+  ],
+  "twitter": "imesam",
+  "liveon": "",
+  "livecategory": "",
+  "livetitle": ""
+ },
+ "loganrdj": {
+  "twitch": [
+   "loganrdj"
+  ],
+  "youtube": [
+   "loganrdj"
+  ],
+  "twitter": "loganrdj",
+  "liveon": "",
+  "livecategory": "",
+  "livetitle": ""
+ },
+ "elchakotay": {
+  "twitch": [
+   "elchakotay"
+  ],
+  "youtube": [
+   "elchakotay"
+  ],
+  "twitter": "elchakotay",
+  "liveon": "",
+  "livecategory": "",
+  "livetitle": ""
+ },
+ "aesah": {
+  "twitch": [
+   "aesahtft"
+  ],
+  "youtube": [
+   "aesahtft"
+  ],
+  "twitter": "aesahtft",
+  "liveon": "",
+  "livecategory": "",
+  "livetitle": ""
+ },
+ "bricky": {
+  "twitch": [
+   "bricky"
+  ],
+  "youtube": [
+   "bricky"
+  ],
+  "twitter": "bricky",
+  "liveon": "",
+  "livecategory": "",
+  "livetitle": ""
+ },
+ "curiousjoi": {
+  "twitch": [
+   "curiousjoi"
+  ],
+  "youtube": [
+   "curiousjoi"
+  ],
+  "twitter": "curiousjoi",
+  "liveon": "https://twitch.tv/curiousjoi",
+  "livecategory": "Street Fighter 6",
+  "livetitle": "【☕】 ‣  sajam slam training day 3? • @curiousjoi « !ᴀᴅᴠ ‣ !ʏᴛ ‣ !ꜱᴄʜᴇᴅ »"
+ },
+ "frodan": {
+  "twitch": [
+   "frodan"
+  ],
+  "youtube": [
+   "frodantv"
+  ],
+  "twitter": "frodan",
+  "liveon": "https://twitch.tv/frodan",
+  "livecategory": "Street Fighter 6",
+  "livetitle": "Sajam Slam SF6 practice - Bronze 1 help i am BAD!!! | !tierlist updated"
+ },
+ "jakenbake": {
+  "twitch": [
+   "jakenbakelive"
+  ],
+  "youtube": [
+   "jakenbakelive"
+  ],
+  "twitter": "jakenbakelive",
+  "liveon": "",
+  "livecategory": "",
+  "livetitle": ""
+ },
+ "karq": {
+  "twitch": [
+   "karq"
+  ],
+  "youtube": [
+   "karq"
+  ],
+  "twitter": "karqgames",
+  "liveon": "",
+  "livecategory": "",
+  "livetitle": ""
+ },
+ "flayon": {
+  "youtube-stream": [
+   "machinaxflayon"
+  ],
+  "twitter": "machinaxflayon",
+  "liveon": "",
+  "livecategory": "",
+  "livetitle": ""
+ },
+ "mogu": {
+  "twitch": [
+   "mogu"
+  ],
+  "youtube": [
+   "mogughost"
+  ],
+  "twitter": "mogughost",
+  "liveon": "",
+  "livecategory": "",
+  "livetitle": ""
+ },
+ "shoomimi": {
+  "twitch": [
+   "shoomimi"
+  ],
+  "youtube": [
+   "shoomimishoom"
+  ],
+  "twitter": "shoomimi",
+  "liveon": "https://twitch.tv/shoomimi",
+  "livecategory": "Street Fighter 6",
+  "livetitle": "UNCAPPED SUBATHON [DAY 3] Getting to GOLD before Sajam Slam teams are announced tomorrow!"
+ },
+ "stanz": {
+  "twitch": [
+   "stanz"
+  ],
+  "youtube": [
+   "stanz"
+  ],
+  "twitter": "nathanstanz",
+  "liveon": "https://twitch.tv/stanz",
+  "livecategory": "Street Fighter 6",
+  "livetitle": "achieving zen so I can play street fighter again (i wont slam my desk i promise)"
+ },
+ "justinbriner": {
+  "twitch": [
+   "justinbriner"
+  ],
+  "twitter": "justinbriner",
+  "liveon": "",
+  "livecategory": "",
+  "livetitle": ""
+ }
+}

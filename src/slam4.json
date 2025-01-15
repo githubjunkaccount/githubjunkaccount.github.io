@@ -1,0 +1,304 @@
+[{
+  "slamNum": "4",
+  "game": "SF6",
+  "liquipedia": "https://liquipedia.net/fighters/Sajam_Street_Fighter_Slam/2",
+  "schedule": [
+    {"name":"Groups",  "date":"Jan 22, 25",  "status":"future", "youtubeVod":""},
+    {"name":"Groups",  "date":"Jan 24, 25",  "status":"future", "youtubeVod":""},
+    {"name":"Finals",  "date":"Jan 26, 25",  "status":"future", "youtubeVod":""},
+    {"name":"Exhib.",  "date":"March, 25",  "status":"future", "youtubeVod":""}
+  ],
+
+  "teams": [
+    {
+      "team_id": "unsorted",
+      "placement": 0
+    },
+    {
+      "team_id": "Diaphone",
+      "placement": 0
+    },
+    {
+      "team_id": "ElChakotay",
+      "placement": 0
+    },
+    {
+      "team_id": "JB",
+      "placement": 0
+    },
+    {
+      "team_id": "Nephew",
+      "placement": 0
+    },
+    {
+      "team_id": "Shine",
+      "placement": 0
+    }
+  ],
+
+  "people": [
+    {
+      "name": "Sajam",
+      "team_id": "Staff",
+      "slamcount": 4,
+      "characters": []
+    },
+    {
+      "name": "AutoMattock",
+      "team_id": "Staff",
+      "slamcount": 2,
+      "characters": []
+    },
+    {
+      "name": "Justin Wong",
+      "team_id": "Staff",
+      "slamcount": 3,
+      "characters": []
+    },
+    {
+      "name": "Punk",
+      "team_id": "Staff",
+      "slamcount": 1,
+      "characters": []
+    },
+
+    {
+      "name": "Brian_F",
+      "team_id": "Brian_F",
+      "tier": 5,
+      "slamcount": 2,
+      "characters": ["Ed"]
+    },
+    {
+      "name": "Diaphone",
+      "team_id": "Diaphone",
+      "tier": 5,
+      "slamcount": 2,
+      "characters": ["AKI"]
+    },
+    {
+      "name": "ElChakotay",
+      "team_id": "ElChakotay",
+      "tier": 5,
+      "slamcount": 1,
+      "characters": ["Lily"]
+    },
+    {
+      "name": "JB",
+      "team_id": "JB",
+      "tier": 5,
+      "slamcount": 2,
+      "characters": ["Rashid"]
+    },
+    {
+      "name": "Nephew",
+      "team_id": "Nephew",
+      "tier": 5,
+      "slamcount": 2,
+      "characters": ["Juri"]
+    },
+    {
+      "name": "Shine",
+      "team_id": "Shine",
+      "tier": 5,
+      "slamcount": 2,
+      "characters": ["Ed", "Kimberly"]
+    },
+    {
+      "name": "Aesah",
+      "team_id": "unsorted",
+      "tier": 1,
+      "slamcount": 1,
+      "characters": ["Luke"]
+    },
+    {
+      "name": "AllShamNoWow",
+      "team_id": "unsorted",
+      "tier": 1,
+      "slamcount": 2,
+      "characters": ["Dee Jay"]
+    },
+    {
+      "name": "Amour",
+      "team_id": "unsorted",
+      "tier": 1,
+      "slamcount": 3,
+      "characters": ["Ken", "E. Honda"]
+    },
+    {
+      "name": "BoxBox",
+      "team_id": "unsorted",
+      "tier": 1,
+      "slamcount": 4,
+      "characters": ["Luke"]
+    },
+    {
+      "name": "Bricky",
+      "team_id": "unsorted",
+      "tier": 1,
+      "slamcount": 1,
+      "characters": ["Chun-Li"]
+    },
+    {
+      "name": "Coney",
+      "team_id": "unsorted",
+      "tier": 1,
+      "slamcount": 3,
+      "characters": ["Ryu"]
+    },
+    {
+      "name": "Curiousjoi",
+      "team_id": "unsorted",
+      "tier": 1,
+      "slamcount": 1,
+      "characters": ["Cammy"]
+    },
+    {
+      "name": "Eskay",
+      "team_id": "unsorted",
+      "tier": 1,
+      "slamcount": 3,
+      "characters": ["Juri", "Chun-Li"]
+    },
+    {
+      "name": "Fairlight",
+      "team_id": "unsorted",
+      "tier": 1,
+      "slamcount": 2,
+      "characters": ["Ken"]
+    },
+    {
+      "name": "Frodan",
+      "team_id": "unsorted",
+      "tier": 1,
+      "slamcount": 1,
+      "characters": ["Ken"]
+    },
+    {
+      "name": "Huntress",
+      "team_id": "unsorted",
+      "tier": 1,
+      "slamcount": 2,
+      "characters": ["Chun-Li"]
+    },
+    {
+      "name": "Jakenbake",
+      "team_id": "unsorted",
+      "tier": 1,
+      "slamcount": 1,
+      "characters": ["Luke"]
+    },
+    {
+      "name": "KarQ",
+      "team_id": "unsorted",
+      "tier": 1,
+      "slamcount": 1,
+      "characters": ["E. Honda"]
+    },
+    {
+      "name": "Koefficient",
+      "team_id": "unsorted",
+      "tier": 1,
+      "slamcount": 3,
+      "characters": ["AKI"]
+    },
+    {
+      "name": "Flayon",
+      "team_id": "unsorted",
+      "tier": 1,
+      "slamcount": 1,
+      "characters": ["Luke"]
+    },
+    {
+      "name": "Mogu",
+      "team_id": "unsorted",
+      "tier": 1,
+      "slamcount": 1,
+      "characters": ["Ed"]
+    },
+    {
+      "name": "PhiDX",
+      "team_id": "unsorted",
+      "tier": 1,
+      "slamcount": 4,
+      "characters": ["Rashid", "Cammy"]
+    },
+    {
+      "name": "Justin Briner",
+      "team_id": "unsorted",
+      "tier": 1,
+      "slamcount": 1,
+      "characters": ["Manon"]
+    },
+    {
+      "name": "Scarra",
+      "team_id": "unsorted",
+      "tier": 1,
+      "slamcount": 4,
+      "characters": ["Manon"]
+    },
+    {
+      "name": "Seanic",
+      "team_id": "unsorted",
+      "tier": 1,
+      "slamcount": 3,
+      "characters": ["Chun-Li"]
+    },
+    {
+      "name": "Shoomimi",
+      "team_id": "unsorted",
+      "tier": 1,
+      "slamcount": 1,
+      "characters": ["JP"]
+    },
+    {
+      "name": "Stanz",
+      "team_id": "unsorted",
+      "tier": 1,
+      "slamcount": 1,
+      "characters": ["Marisa"]
+    },
+    {
+      "name": "Sykkuno",
+      "team_id": "unsorted",
+      "tier": 1,
+      "slamcount": 3,
+      "characters": ["Cammy"]
+    },
+    {
+      "name": "vGumiho",
+      "team_id": "unsorted",
+      "tier": 1,
+      "slamcount": 3,
+      "characters": ["Blanka"]
+    }
+  ],
+
+  "characters": [
+    "AKI",
+    "Akuma",
+    "Blanka",
+    "Cammy",
+    "Chun-Li",
+    "Dee Jay",
+    "Dhalsim",
+    "Ed",
+    "E. Honda",
+    "Guile",
+    "Jamie",
+    "JP",
+    "Juri",
+    "Ken",
+    "Kimberly",
+    "Lily",
+    "Luke",
+    "Manon",
+    "Marisa",
+    "M. Bison",
+    "Rashid",
+    "Ryu",
+    "Terry",
+    "Zangief"
+  ]
+
+}]

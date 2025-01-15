@@ -1,0 +1,296 @@
+[{
+  "slamNum": "1",
+  "game": "TK8",
+  "liquipedia": "https://liquipedia.net/fighters/Sajam_Tekken_Slam/1",
+  "schedule": [
+    {"name":"Groups",  "date":"Mar 8, 24",  "status":"past", "youtubeVod":"bVk4JiP90F0"},
+    {"name":"Finals",  "date":"Mar 10, 24", "status":"past", "youtubeVod":"EuhZBi9Cnl4"}
+  ],
+
+  "teams": [
+    {
+      "team_id": "Joey Fury",
+      "placement": 1
+    },
+    {
+      "team_id": "Brawlpro",
+      "placement": 2
+    },
+    {
+      "team_id": "MYK",
+      "placement": 3
+    },
+    {
+      "team_id": "PhiDX",
+      "placement": 4
+    },
+    {
+      "team_id": "Justin Wong",
+      "placement": 5
+    },
+    {
+      "team_id": "KawaiiFaceMiles",
+      "placement": 5
+    }
+  ],
+
+  "people": [
+    {
+      "name": "Sajam",
+      "team_id": "Staff",
+      "slamcount": 1,
+      "characters": []
+    },
+    {
+      "name": "Tasty Steve",
+      "team_id": "Staff",
+      "slamcount": 1,
+      "characters": []
+    },
+    {
+      "name": "Brawlpro",
+      "team_id": "Brawlpro",
+      "tier": 5,
+      "slamcount": 1,
+      "characters": ["King"]
+    },
+    {
+      "name": "Joey Fury",
+      "team_id": "Joey Fury",
+      "tier": 5,
+      "slamcount": 1,
+      "characters": ["Jack-8", "Paul"]
+    },
+    {
+      "name": "Justin Wong",
+      "team_id": "Justin Wong",
+      "tier": 5,
+      "slamcount": 1,
+      "characters": ["Feng"]
+    },
+    {
+      "name": "KawaiiFaceMiles",
+      "team_id": "KawaiiFaceMiles",
+      "tier": 5,
+      "slamcount": 1,
+      "characters": ["Alisa"]
+    },
+    {
+      "name": "PhiDX",
+      "team_id": "PhiDX",
+      "tier": 5,
+      "slamcount": 1,
+      "characters": ["Lili"]
+    },
+    {
+      "name": "MYK",
+      "team_id": "MYK",
+      "tier": 5,
+      "slamcount": 1,
+      "characters": ["Lars", "Feng"]
+    },
+    {
+      "name": "BoxBox",
+      "team_id": "Justin Wong",
+      "tier": 4,
+      "slamcount": 1,
+      "characters": ["Asuka"]
+    },
+    {
+      "name": "Scarra",
+      "team_id": "PhiDX",
+      "tier": 4,
+      "slamcount": 1,
+      "characters": ["Victor"]
+    },
+    {
+      "name": "LazyMattman",
+      "team_id": "Brawlpro",
+      "tier": 4,
+      "slamcount": 1,
+      "characters": ["Jack-8"]
+    },
+    {
+      "name": "Rosemi Lovelock",
+      "team_id": "MYK",
+      "tier": 4,
+      "slamcount": 1,
+      "characters": ["Lili"]
+    },
+    {
+      "name": "Imaqtpie",
+      "team_id": "Joey Fury",
+      "tier": 4,
+      "slamcount": 1,
+      "characters": ["Kuma"]
+    },
+    {
+      "name": "Rayditz",
+      "team_id": "KawaiiFaceMiles",
+      "tier": 4,
+      "slamcount": 1,
+      "characters": ["Dragunov"]
+    },
+    {
+      "name": "AfroSenju",
+      "team_id": "Justin Wong",
+      "tier": 3,
+      "slamcount": 1,
+      "characters": ["Dragunov"]
+    },
+    {
+      "name": "Disguised Toast",
+      "team_id": "PhiDX",
+      "tier": 3,
+      "slamcount": 1,
+      "characters": ["Steve"]
+    },
+    {
+      "name": "supertf",
+      "team_id": "Brawlpro",
+      "tier": 3,
+      "slamcount": 1,
+      "characters": ["Reina"]
+    },
+    {
+      "name": "Kite Hasegawa",
+      "team_id": "MYK",
+      "tier": 3,
+      "slamcount": 1,
+      "characters": ["Asuka"]
+    },
+    {
+      "name": "Shiphtur",
+      "team_id": "Joey Fury",
+      "tier": 3,
+      "slamcount": 1,
+      "characters": ["Jun"]
+    },
+    {
+      "name": "Seanic",
+      "team_id": "KawaiiFaceMiles",
+      "tier": 3,
+      "slamcount": 1,
+      "characters": ["Lars"]
+    },
+    {
+      "name": "starsmitten",
+      "team_id": "Justin Wong",
+      "tier": 2,
+      "slamcount": 1,
+      "characters": ["Xiaoyu"]
+    },
+    {
+      "name": "LilyPichu",
+      "team_id": "PhiDX",
+      "tier": 2,
+      "slamcount": 1,
+      "characters": ["Lili"]
+    },
+    {
+      "name": "Coney",
+      "team_id": "Brawlpro",
+      "tier": 2,
+      "slamcount": 1,
+      "characters": ["King"]
+    },
+    {
+      "name": "Erobb",
+      "team_id": "MYK",
+      "tier": 2,
+      "slamcount": 1,
+      "characters": ["Asuka"]
+    },
+    {
+      "name": "Emily Wang",
+      "team_id": "Joey Fury",
+      "tier": 2,
+      "slamcount": 1,
+      "characters": ["Lili"]
+    },
+    {
+      "name": "Sydeon",
+      "team_id": "KawaiiFaceMiles",
+      "tier": 2,
+      "slamcount": 1,
+      "characters": ["Alisa"]
+    },
+    {
+      "name": "ConnorEatsPants",
+      "team_id": "Justin Wong",
+      "tier": 1,
+      "slamcount": 1,
+      "characters": ["Reina"]
+    },
+    {
+      "name": "Sykkuno",
+      "team_id": "PhiDX",
+      "tier": 1,
+      "slamcount": 1,
+      "characters": ["Azucena"]
+    },
+    {
+      "name": "Slime",
+      "team_id": "Brawlpro",
+      "tier": 1,
+      "slamcount": 1,
+      "characters": ["Kuma"]
+    },
+    {
+      "name": "Victoria Brightshield",
+      "team_id": "MYK",
+      "tier": 1,
+      "slamcount": 1,
+      "characters": ["Jun"]
+    },
+    {
+      "name": "robcdee",
+      "team_id": "Joey Fury",
+      "tier": 1,
+      "slamcount": 1,
+      "characters": ["Alisa"]
+    },
+    {
+      "name": "PorcelainMaid",
+      "team_id": "KawaiiFaceMiles",
+      "tier": 1,
+      "slamcount": 1,
+      "characters": ["Lili"]
+    }
+  ],
+
+  "characters": [
+    "Alisa",
+    "Asuka",
+    "Azucena",
+    "Bryan",
+    "Claudio",
+    "Devil Jin",
+    "Dragunov",
+    "Feng",
+    "Hwoarang",
+    "Jack-8",
+    "Jin",
+    "Jun",
+    "Kazuya",
+    "King",
+    "Kuma",
+    "Lars",
+    "Law",
+    "Lee",
+    "Leo",
+    "Leroy",
+    "Lili",
+    "Nina",
+    "Panda",
+    "Paul",
+    "Raven",
+    "Shaheen",
+    "Steve",
+    "Victor",
+    "Reina",
+    "Xiaoyu",
+    "Yoshimitsu",
+    "Zafina"
+  ]
+}]
